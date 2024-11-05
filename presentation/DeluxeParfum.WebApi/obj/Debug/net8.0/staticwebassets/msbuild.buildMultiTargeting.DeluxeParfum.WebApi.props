@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DeluxeParfum.WebApi.props" />
+</Project>

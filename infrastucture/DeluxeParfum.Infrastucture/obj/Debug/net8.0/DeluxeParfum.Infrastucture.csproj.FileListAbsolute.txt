@@ -1,0 +1,11 @@
+C:\Users\lenova\OneDrive\Desktop\DeluxeParfum\DeluxeParfum\infrastucture\DeluxeParfum.Infrastucture\bin\Debug\net8.0\DeluxeParfum.Infrastucture.deps.json
+C:\Users\lenova\OneDrive\Desktop\DeluxeParfum\DeluxeParfum\infrastucture\DeluxeParfum.Infrastucture\bin\Debug\net8.0\DeluxeParfum.Infrastucture.dll
+C:\Users\lenova\OneDrive\Desktop\DeluxeParfum\DeluxeParfum\infrastucture\DeluxeParfum.Infrastucture\bin\Debug\net8.0\DeluxeParfum.Infrastucture.pdb
+C:\Users\lenova\OneDrive\Desktop\DeluxeParfum\DeluxeParfum\infrastucture\DeluxeParfum.Infrastucture\obj\Debug\net8.0\DeluxeParfum.Infrastucture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenova\OneDrive\Desktop\DeluxeParfum\DeluxeParfum\infrastucture\DeluxeParfum.Infrastucture\obj\Debug\net8.0\DeluxeParfum.Infrastucture.AssemblyInfoInputs.cache
+C:\Users\lenova\OneDrive\Desktop\DeluxeParfum\DeluxeParfum\infrastucture\DeluxeParfum.Infrastucture\obj\Debug\net8.0\DeluxeParfum.Infrastucture.AssemblyInfo.cs
+C:\Users\lenova\OneDrive\Desktop\DeluxeParfum\DeluxeParfum\infrastucture\DeluxeParfum.Infrastucture\obj\Debug\net8.0\DeluxeParfum.Infrastucture.csproj.CoreCompileInputs.cache
+C:\Users\lenova\OneDrive\Desktop\DeluxeParfum\DeluxeParfum\infrastucture\DeluxeParfum.Infrastucture\obj\Debug\net8.0\DeluxeParfum.Infrastucture.dll
+C:\Users\lenova\OneDrive\Desktop\DeluxeParfum\DeluxeParfum\infrastucture\DeluxeParfum.Infrastucture\obj\Debug\net8.0\refint\DeluxeParfum.Infrastucture.dll
+C:\Users\lenova\OneDrive\Desktop\DeluxeParfum\DeluxeParfum\infrastucture\DeluxeParfum.Infrastucture\obj\Debug\net8.0\DeluxeParfum.Infrastucture.pdb
+C:\Users\lenova\OneDrive\Desktop\DeluxeParfum\DeluxeParfum\infrastucture\DeluxeParfum.Infrastucture\obj\Debug\net8.0\ref\DeluxeParfum.Infrastucture.dll
