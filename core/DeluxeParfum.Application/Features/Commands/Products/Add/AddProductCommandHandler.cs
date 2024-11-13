@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using DeluxeParfum.Application.Extensions;
 using DeluxeParfum.Application.Interfaces;
 using DeluxeParfum.Domain.Entities.Products;
 using FluentValidation;
@@ -15,16 +16,16 @@ namespace DeluxeParfum.Application.Features.Commands.Products.Add
     {
         private readonly IUnitOfWork _uow;
         private readonly IMapper _mapper;
-        private readonly AbstractValidator<AddProductsCommand> validationRules;
+        private readonly AbstractValidator<AddProductsCommand> _validationRules;
         public AddProductsCommandHandler(IUnitOfWork uow, IMapper mapper, AbstractValidator<AddProductsCommand> validationRules)
         {
             _uow = uow;
             _mapper = mapper;
-            this.validationRules = validationRules;
+            _validationRules = validationRules;
         }
         public async Task Handle(AddProductsCommand request, CancellationToken cancellationToken)
         {
-            await validationRules.Throw(request);
+            await _validationRules.ThrowIfValidationFailAsync(request);
             var productEntity = _mapper.Map<Product>(request);
             await _uow.ProductRepository.AddAsync(productEntity);
             await _uow.Commit();
@@ -32,4 +33,4 @@ namespace DeluxeParfum.Application.Features.Commands.Products.Add
     }
 }
 
-}
+

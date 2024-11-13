@@ -145,3 +145,4 @@ C:\Users\lenova\OneDrive\Desktop\DeluxeParfum\DeluxeParfum\presentation\DeluxePa
 C:\Users\lenova\OneDrive\Desktop\DeluxeParfum\DeluxeParfum\presentation\DeluxeParfum.WebApi\obj\Debug\net8.0\DeluxeParfum.WebApi.pdb
 C:\Users\lenova\OneDrive\Desktop\DeluxeParfum\DeluxeParfum\presentation\DeluxeParfum.WebApi\obj\Debug\net8.0\DeluxeParfum.WebApi.genruntimeconfig.cache
 C:\Users\lenova\OneDrive\Desktop\DeluxeParfum\DeluxeParfum\presentation\DeluxeParfum.WebApi\obj\Debug\net8.0\ref\DeluxeParfum.WebApi.dll
+C:\Users\lenova\OneDrive\Desktop\DeluxeParfum\DeluxeParfum\presentation\DeluxeParfum.WebApi\obj\Debug\net8.0\DeluxeParfum.WebApi.sourcelink.json

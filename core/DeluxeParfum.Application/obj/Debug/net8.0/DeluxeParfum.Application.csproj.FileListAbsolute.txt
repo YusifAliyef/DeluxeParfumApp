@@ -13,3 +13,4 @@ C:\Users\lenova\OneDrive\Desktop\DeluxeParfum\DeluxeParfum\core\DeluxeParfum.App
 C:\Users\lenova\OneDrive\Desktop\DeluxeParfum\DeluxeParfum\core\DeluxeParfum.Application\obj\Debug\net8.0\refint\DeluxeParfum.Application.dll
 C:\Users\lenova\OneDrive\Desktop\DeluxeParfum\DeluxeParfum\core\DeluxeParfum.Application\obj\Debug\net8.0\DeluxeParfum.Application.pdb
 C:\Users\lenova\OneDrive\Desktop\DeluxeParfum\DeluxeParfum\core\DeluxeParfum.Application\obj\Debug\net8.0\ref\DeluxeParfum.Application.dll
+C:\Users\lenova\OneDrive\Desktop\DeluxeParfum\DeluxeParfum\core\DeluxeParfum.Application\obj\Debug\net8.0\DeluxeParfum.Application.sourcelink.json

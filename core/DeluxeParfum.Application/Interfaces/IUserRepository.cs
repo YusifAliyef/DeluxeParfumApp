@@ -9,5 +9,11 @@ namespace DeluxeParfum.Application.Interfaces
 {
     public interface IUserRepository:IRepository<User>
     {
+        Task AddUser(User user);
+
+        void UpdateUser(User user);
+
+        Task<User?> GetUserWithDetail(string email);
+
     }
 }

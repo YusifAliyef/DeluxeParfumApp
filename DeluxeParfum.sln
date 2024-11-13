@@ -17,7 +17,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeluxeParfum.Infrastucture"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeluxeParfum.WebApi", "presentation\DeluxeParfum.WebApi\DeluxeParfum.WebApi.csproj", "{35611C46-D010-4C4F-A549-B6EC2F6F6BEA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeluxeParfum.Persistance", "infrastucture\DeluxeParfum.Persistance\DeluxeParfum.Persistance.csproj", "{51BEAAF7-0660-48B6-B9BA-C0BE2F7D3179}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeluxeParfum.Persistance", "infrastucture\DeluxeParfum.Persistance\DeluxeParfum.Persistance.csproj", "{51BEAAF7-0660-48B6-B9BA-C0BE2F7D3179}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

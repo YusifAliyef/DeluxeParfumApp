@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DeluxeParfum.Persistance")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af42487e6e0b5d8322129bc5719d0a60af890a99")]
 [assembly: System.Reflection.AssemblyProductAttribute("DeluxeParfum.Persistance")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DeluxeParfum.Persistance")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

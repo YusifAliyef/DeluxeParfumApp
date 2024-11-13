@@ -9,3 +9,4 @@ C:\Users\lenova\OneDrive\Desktop\DeluxeParfum\DeluxeParfum\infrastucture\DeluxeP
 C:\Users\lenova\OneDrive\Desktop\DeluxeParfum\DeluxeParfum\infrastucture\DeluxeParfum.Infrastucture\obj\Debug\net8.0\refint\DeluxeParfum.Infrastucture.dll
 C:\Users\lenova\OneDrive\Desktop\DeluxeParfum\DeluxeParfum\infrastucture\DeluxeParfum.Infrastucture\obj\Debug\net8.0\DeluxeParfum.Infrastucture.pdb
 C:\Users\lenova\OneDrive\Desktop\DeluxeParfum\DeluxeParfum\infrastucture\DeluxeParfum.Infrastucture\obj\Debug\net8.0\ref\DeluxeParfum.Infrastucture.dll
+C:\Users\lenova\OneDrive\Desktop\DeluxeParfum\DeluxeParfum\infrastucture\DeluxeParfum.Infrastucture\obj\Debug\net8.0\DeluxeParfum.Infrastucture.sourcelink.json

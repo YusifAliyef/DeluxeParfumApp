@@ -17,3 +17,4 @@ C:\Users\lenova\OneDrive\Desktop\DeluxeParfum\DeluxeParfum\infrastucture\DeluxeP
 C:\Users\lenova\OneDrive\Desktop\DeluxeParfum\DeluxeParfum\infrastucture\DeluxeParfum.Persistance\obj\Debug\net8.0\DeluxeParfum.Persistance.pdb
 C:\Users\lenova\OneDrive\Desktop\DeluxeParfum\DeluxeParfum\infrastucture\DeluxeParfum.Persistance\obj\Debug\net8.0\DeluxeParfum.Persistance.genruntimeconfig.cache
 C:\Users\lenova\OneDrive\Desktop\DeluxeParfum\DeluxeParfum\infrastucture\DeluxeParfum.Persistance\obj\Debug\net8.0\ref\DeluxeParfum.Persistance.dll
+C:\Users\lenova\OneDrive\Desktop\DeluxeParfum\DeluxeParfum\infrastucture\DeluxeParfum.Persistance\obj\Debug\net8.0\DeluxeParfum.Persistance.sourcelink.json

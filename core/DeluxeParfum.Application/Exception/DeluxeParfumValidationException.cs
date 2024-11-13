@@ -16,5 +16,9 @@ namespace DeluxeParfum.Application.Exception
         {
             ValidationFailures = validationFailures;
         }
+
+        public DeluxeParfumValidationException(string? message) : base(message)
+        {
+        }
     }
 }
