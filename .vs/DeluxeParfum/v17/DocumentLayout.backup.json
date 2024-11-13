@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alyfx\\Desktop\\DeluxeParfum\\DeluxeParfumApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0018DD-443C-42B1-BAD2-FA91BCF77FBD}|core\\DeluxeParfum.Application\\DeluxeParfum.Application.csproj|c:\\users\\alyfx\\desktop\\deluxeparfum\\deluxeparfumapp\\core\\deluxeparfum.application\\features\\commands\\products\\add\\addcustomercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B0018DD-443C-42B1-BAD2-FA91BCF77FBD}|core\\DeluxeParfum.Application\\DeluxeParfum.Application.csproj|solutionrelative:core\\deluxeparfum.application\\features\\commands\\products\\add\\addcustomercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0018DD-443C-42B1-BAD2-FA91BCF77FBD}|core\\DeluxeParfum.Application\\DeluxeParfum.Application.csproj|c:\\users\\alyfx\\desktop\\deluxeparfum\\deluxeparfumapp\\core\\deluxeparfum.application\\features\\commands\\products\\add\\addcategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B0018DD-443C-42B1-BAD2-FA91BCF77FBD}|core\\DeluxeParfum.Application\\DeluxeParfum.Application.csproj|solutionrelative:core\\deluxeparfum.application\\features\\commands\\products\\add\\addcategorycommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0018DD-443C-42B1-BAD2-FA91BCF77FBD}|core\\DeluxeParfum.Application\\DeluxeParfum.Application.csproj|c:\\users\\alyfx\\desktop\\deluxeparfum\\deluxeparfumapp\\core\\deluxeparfum.application\\features\\commands\\products\\add\\addaddresscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B0018DD-443C-42B1-BAD2-FA91BCF77FBD}|core\\DeluxeParfum.Application\\DeluxeParfum.Application.csproj|solutionrelative:core\\deluxeparfum.application\\features\\commands\\products\\add\\addaddresscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35611C46-D010-4C4F-A549-B6EC2F6F6BEA}|presentation\\DeluxeParfum.WebApi\\DeluxeParfum.WebApi.csproj|c:\\users\\alyfx\\desktop\\deluxeparfum\\deluxeparfumapp\\presentation\\deluxeparfum.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35611C46-D010-4C4F-A549-B6EC2F6F6BEA}|presentation\\DeluxeParfum.WebApi\\DeluxeParfum.WebApi.csproj|solutionrelative:presentation\\deluxeparfum.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35611C46-D010-4C4F-A549-B6EC2F6F6BEA}|presentation\\DeluxeParfum.WebApi\\DeluxeParfum.WebApi.csproj|c:\\users\\alyfx\\desktop\\deluxeparfum\\deluxeparfumapp\\presentation\\deluxeparfum.webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35611C46-D010-4C4F-A549-B6EC2F6F6BEA}|presentation\\DeluxeParfum.WebApi\\DeluxeParfum.WebApi.csproj|solutionrelative:presentation\\deluxeparfum.webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0018DD-443C-42B1-BAD2-FA91BCF77FBD}|core\\DeluxeParfum.Application\\DeluxeParfum.Application.csproj|c:\\users\\alyfx\\desktop\\deluxeparfum\\deluxeparfumapp\\core\\deluxeparfum.application\\dtos\\addressviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B0018DD-443C-42B1-BAD2-FA91BCF77FBD}|core\\DeluxeParfum.Application\\DeluxeParfum.Application.csproj|solutionrelative:core\\deluxeparfum.application\\dtos\\addressviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 1412,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddCustomerCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Alyfx\\Desktop\\DeluxeParfum\\DeluxeParfumApp\\core\\DeluxeParfum.Application\\Features\\Commands\\Products\\Add\\AddCustomerCommandHandler.cs",
+              "RelativeDocumentMoniker": "core\\DeluxeParfum.Application\\Features\\Commands\\Products\\Add\\AddCustomerCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Alyfx\\Desktop\\DeluxeParfum\\DeluxeParfumApp\\core\\DeluxeParfum.Application\\Features\\Commands\\Products\\Add\\AddCustomerCommandHandler.cs",
+              "RelativeToolTip": "core\\DeluxeParfum.Application\\Features\\Commands\\Products\\Add\\AddCustomerCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T14:10:04.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddCategoryCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Alyfx\\Desktop\\DeluxeParfum\\DeluxeParfumApp\\core\\DeluxeParfum.Application\\Features\\Commands\\Products\\Add\\AddCategoryCommandHandler.cs",
+              "RelativeDocumentMoniker": "core\\DeluxeParfum.Application\\Features\\Commands\\Products\\Add\\AddCategoryCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Alyfx\\Desktop\\DeluxeParfum\\DeluxeParfumApp\\core\\DeluxeParfum.Application\\Features\\Commands\\Products\\Add\\AddCategoryCommandHandler.cs",
+              "RelativeToolTip": "core\\DeluxeParfum.Application\\Features\\Commands\\Products\\Add\\AddCategoryCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T14:10:01.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddAddressCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Alyfx\\Desktop\\DeluxeParfum\\DeluxeParfumApp\\core\\DeluxeParfum.Application\\Features\\Commands\\Products\\Add\\AddAddressCommand.cs",
+              "RelativeDocumentMoniker": "core\\DeluxeParfum.Application\\Features\\Commands\\Products\\Add\\AddAddressCommand.cs",
+              "ToolTip": "C:\\Users\\Alyfx\\Desktop\\DeluxeParfum\\DeluxeParfumApp\\core\\DeluxeParfum.Application\\Features\\Commands\\Products\\Add\\AddAddressCommand.cs",
+              "RelativeToolTip": "core\\DeluxeParfum.Application\\Features\\Commands\\Products\\Add\\AddAddressCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T14:10:00.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alyfx\\Desktop\\DeluxeParfum\\DeluxeParfumApp\\presentation\\DeluxeParfum.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "presentation\\DeluxeParfum.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Alyfx\\Desktop\\DeluxeParfum\\DeluxeParfumApp\\presentation\\DeluxeParfum.WebApi\\Program.cs",
+              "RelativeToolTip": "presentation\\DeluxeParfum.WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T14:09:42.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Alyfx\\Desktop\\DeluxeParfum\\DeluxeParfumApp\\presentation\\DeluxeParfum.WebApi\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "presentation\\DeluxeParfum.WebApi\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Alyfx\\Desktop\\DeluxeParfum\\DeluxeParfumApp\\presentation\\DeluxeParfum.WebApi\\WeatherForecast.cs",
+              "RelativeToolTip": "presentation\\DeluxeParfum.WebApi\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T14:09:36.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddressViewDto.cs",
+              "DocumentMoniker": "C:\\Users\\Alyfx\\Desktop\\DeluxeParfum\\DeluxeParfumApp\\core\\DeluxeParfum.Application\\Dtos\\AddressViewDto.cs",
+              "RelativeDocumentMoniker": "core\\DeluxeParfum.Application\\Dtos\\AddressViewDto.cs",
+              "ToolTip": "C:\\Users\\Alyfx\\Desktop\\DeluxeParfum\\DeluxeParfumApp\\core\\DeluxeParfum.Application\\Dtos\\AddressViewDto.cs",
+              "RelativeToolTip": "core\\DeluxeParfum.Application\\Dtos\\AddressViewDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T14:09:29.793Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DeluxeParfum.Domain
-build_property.ProjectDir = C:\Users\lenova\OneDrive\Desktop\DeluxeParfum\DeluxeParfum\core\DeluxeParfum.Domain\
+build_property.ProjectDir = C:\Users\Alyfx\Desktop\DeluxeParfum\DeluxeParfumApp\core\DeluxeParfum.Domain\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
