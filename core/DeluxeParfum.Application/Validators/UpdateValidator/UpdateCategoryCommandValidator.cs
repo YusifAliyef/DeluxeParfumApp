@@ -1,4 +1,5 @@
 ﻿using DeluxeParfum.Application.Features.Commands.Products.Delete;
+using DeluxeParfum.Application.Features.Commands.Products.Update;
 using FluentValidation;
 using System;
 using System.Collections.Generic;
@@ -8,9 +9,9 @@ using System.Threading.Tasks;
 
 namespace DeluxeParfum.Application.Validators.UpdateValidator
 {
-    public class DeleteCategoryCommandValidator : AbstractValidator<DeleteCategoryCommand>
+    public class UpdateCategoryCommandValidator : AbstractValidator<UpdateCategoryCommand>
     {
-        public DeleteCategoryCommandValidator()
+        public UpdateCategoryCommandValidator()
         {
             RuleFor(x => x.Id)
                 .NotNull();

@@ -10,3 +10,15 @@ C:\Users\lenova\OneDrive\Desktop\DeluxeParfum\DeluxeParfum\core\DeluxeParfum.Dom
 C:\Users\lenova\OneDrive\Desktop\DeluxeParfum\DeluxeParfum\core\DeluxeParfum.Domain\obj\Debug\net8.0\DeluxeParfum.Domain.pdb
 C:\Users\lenova\OneDrive\Desktop\DeluxeParfum\DeluxeParfum\core\DeluxeParfum.Domain\obj\Debug\net8.0\ref\DeluxeParfum.Domain.dll
 C:\Users\lenova\OneDrive\Desktop\DeluxeParfum\DeluxeParfum\core\DeluxeParfum.Domain\obj\Debug\net8.0\DeluxeParfum.Domain.sourcelink.json
+C:\Users\Alyfx\Desktop\DeluxeParfum\DeluxeParfumApp\core\DeluxeParfum.Domain\bin\Debug\net8.0\DeluxeParfum.Domain.deps.json
+C:\Users\Alyfx\Desktop\DeluxeParfum\DeluxeParfumApp\core\DeluxeParfum.Domain\bin\Debug\net8.0\DeluxeParfum.Domain.dll
+C:\Users\Alyfx\Desktop\DeluxeParfum\DeluxeParfumApp\core\DeluxeParfum.Domain\bin\Debug\net8.0\DeluxeParfum.Domain.pdb
+C:\Users\Alyfx\Desktop\DeluxeParfum\DeluxeParfumApp\core\DeluxeParfum.Domain\obj\Debug\net8.0\DeluxeParfum.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alyfx\Desktop\DeluxeParfum\DeluxeParfumApp\core\DeluxeParfum.Domain\obj\Debug\net8.0\DeluxeParfum.Domain.AssemblyInfoInputs.cache
+C:\Users\Alyfx\Desktop\DeluxeParfum\DeluxeParfumApp\core\DeluxeParfum.Domain\obj\Debug\net8.0\DeluxeParfum.Domain.AssemblyInfo.cs
+C:\Users\Alyfx\Desktop\DeluxeParfum\DeluxeParfumApp\core\DeluxeParfum.Domain\obj\Debug\net8.0\DeluxeParfum.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Alyfx\Desktop\DeluxeParfum\DeluxeParfumApp\core\DeluxeParfum.Domain\obj\Debug\net8.0\DeluxeParfum.Domain.sourcelink.json
+C:\Users\Alyfx\Desktop\DeluxeParfum\DeluxeParfumApp\core\DeluxeParfum.Domain\obj\Debug\net8.0\DeluxeParfum.Domain.dll
+C:\Users\Alyfx\Desktop\DeluxeParfum\DeluxeParfumApp\core\DeluxeParfum.Domain\obj\Debug\net8.0\refint\DeluxeParfum.Domain.dll
+C:\Users\Alyfx\Desktop\DeluxeParfum\DeluxeParfumApp\core\DeluxeParfum.Domain\obj\Debug\net8.0\DeluxeParfum.Domain.pdb
+C:\Users\Alyfx\Desktop\DeluxeParfum\DeluxeParfumApp\core\DeluxeParfum.Domain\obj\Debug\net8.0\ref\DeluxeParfum.Domain.dll
