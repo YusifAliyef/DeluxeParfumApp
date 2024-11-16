@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alyfx\\Desktop\\DeluxeParfum\\DeluxeParfumApp\\infrastucture\\DeluxeParfum.Infrastucture\\DeluxeParfum.Infrastucture.csproj": {}
+    "C:\\Users\\lenova\\OneDrive\\Desktop\\DeluxeParfum\\DeluxeParfum\\infrastucture\\DeluxeParfum.Infrastucture\\DeluxeParfum.Infrastucture.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alyfx\\Desktop\\DeluxeParfum\\DeluxeParfumApp\\infrastucture\\DeluxeParfum.Infrastucture\\DeluxeParfum.Infrastucture.csproj": {
+    "C:\\Users\\lenova\\OneDrive\\Desktop\\DeluxeParfum\\DeluxeParfum\\infrastucture\\DeluxeParfum.Infrastucture\\DeluxeParfum.Infrastucture.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alyfx\\Desktop\\DeluxeParfum\\DeluxeParfumApp\\infrastucture\\DeluxeParfum.Infrastucture\\DeluxeParfum.Infrastucture.csproj",
+        "projectUniqueName": "C:\\Users\\lenova\\OneDrive\\Desktop\\DeluxeParfum\\DeluxeParfum\\infrastucture\\DeluxeParfum.Infrastucture\\DeluxeParfum.Infrastucture.csproj",
         "projectName": "DeluxeParfum.Infrastucture",
-        "projectPath": "C:\\Users\\Alyfx\\Desktop\\DeluxeParfum\\DeluxeParfumApp\\infrastucture\\DeluxeParfum.Infrastucture\\DeluxeParfum.Infrastucture.csproj",
-        "packagesPath": "C:\\Users\\Alyfx\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alyfx\\Desktop\\DeluxeParfum\\DeluxeParfumApp\\infrastucture\\DeluxeParfum.Infrastucture\\obj\\",
+        "projectPath": "C:\\Users\\lenova\\OneDrive\\Desktop\\DeluxeParfum\\DeluxeParfum\\infrastucture\\DeluxeParfum.Infrastucture\\DeluxeParfum.Infrastucture.csproj",
+        "packagesPath": "C:\\Users\\lenova\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lenova\\OneDrive\\Desktop\\DeluxeParfum\\DeluxeParfum\\infrastucture\\DeluxeParfum.Infrastucture\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Alyfx\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lenova\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -61,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

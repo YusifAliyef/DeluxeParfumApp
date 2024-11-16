@@ -4372,19 +4372,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Alyfx\\.nuget\\packages\\": {}
+    "C:\\Users\\lenova\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alyfx\\Desktop\\DeluxeParfum\\DeluxeParfumApp\\infrastucture\\DeluxeParfum.Persistance\\DeluxeParfum.Persistance.csproj",
+      "projectUniqueName": "C:\\Users\\lenova\\OneDrive\\Desktop\\DeluxeParfum\\DeluxeParfum\\infrastucture\\DeluxeParfum.Persistance\\DeluxeParfum.Persistance.csproj",
       "projectName": "DeluxeParfum.Persistance",
-      "projectPath": "C:\\Users\\Alyfx\\Desktop\\DeluxeParfum\\DeluxeParfumApp\\infrastucture\\DeluxeParfum.Persistance\\DeluxeParfum.Persistance.csproj",
-      "packagesPath": "C:\\Users\\Alyfx\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alyfx\\Desktop\\DeluxeParfum\\DeluxeParfumApp\\infrastucture\\DeluxeParfum.Persistance\\obj\\",
+      "projectPath": "C:\\Users\\lenova\\OneDrive\\Desktop\\DeluxeParfum\\DeluxeParfum\\infrastucture\\DeluxeParfum.Persistance\\DeluxeParfum.Persistance.csproj",
+      "packagesPath": "C:\\Users\\lenova\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lenova\\OneDrive\\Desktop\\DeluxeParfum\\DeluxeParfum\\infrastucture\\DeluxeParfum.Persistance\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Alyfx\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\lenova\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4392,18 +4392,17 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Alyfx\\Desktop\\DeluxeParfum\\DeluxeParfumApp\\core\\DeluxeParfum.Application\\DeluxeParfum.Application.csproj": {
-              "projectPath": "C:\\Users\\Alyfx\\Desktop\\DeluxeParfum\\DeluxeParfumApp\\core\\DeluxeParfum.Application\\DeluxeParfum.Application.csproj"
+            "C:\\Users\\lenova\\OneDrive\\Desktop\\DeluxeParfum\\DeluxeParfum\\core\\DeluxeParfum.Application\\DeluxeParfum.Application.csproj": {
+              "projectPath": "C:\\Users\\lenova\\OneDrive\\Desktop\\DeluxeParfum\\DeluxeParfum\\core\\DeluxeParfum.Application\\DeluxeParfum.Application.csproj"
             },
-            "C:\\Users\\Alyfx\\Desktop\\DeluxeParfum\\DeluxeParfumApp\\core\\DeluxeParfum.Domain\\DeluxeParfum.Domain.csproj": {
-              "projectPath": "C:\\Users\\Alyfx\\Desktop\\DeluxeParfum\\DeluxeParfumApp\\core\\DeluxeParfum.Domain\\DeluxeParfum.Domain.csproj"
+            "C:\\Users\\lenova\\OneDrive\\Desktop\\DeluxeParfum\\DeluxeParfum\\core\\DeluxeParfum.Domain\\DeluxeParfum.Domain.csproj": {
+              "projectPath": "C:\\Users\\lenova\\OneDrive\\Desktop\\DeluxeParfum\\DeluxeParfum\\core\\DeluxeParfum.Domain\\DeluxeParfum.Domain.csproj"
             }
           }
         }
@@ -4464,7 +4463,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   },
@@ -4473,7 +4472,7 @@
       "code": "NU1608",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Bağımlılık kısıtlaması dışında algılanan paket sürümü: FluentValidation.ValidatorAttribute 8.6.1, FluentValidation (>= 8.6.1 && < 9.0.0) gerektiriyor ancak sürüm FluentValidation 11.10.0 çözümlenmiş.",
+      "message": "Detected package version outside of dependency constraint: FluentValidation.ValidatorAttribute 8.6.1 requires FluentValidation (>= 8.6.1 && < 9.0.0) but version FluentValidation 11.10.0 was resolved.",
       "libraryId": "FluentValidation",
       "targetGraphs": [
         "net8.0"
