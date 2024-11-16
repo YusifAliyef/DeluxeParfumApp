@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\lenova\\OneDrive\\Desktop\\DeluxeParfum\\DeluxeParfum\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2B0018DD-443C-42B1-BAD2-FA91BCF77FBD}|core\\DeluxeParfum.Application\\DeluxeParfum.Application.csproj|c:\\users\\lenova\\onedrive\\desktop\\deluxeparfum\\deluxeparfum\\core\\deluxeparfum.application\\mappers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{35611C46-D010-4C4F-A549-B6EC2F6F6BEA}|presentation\\DeluxeParfum.WebApi\\DeluxeParfum.WebApi.csproj|c:\\users\\lenova\\onedrive\\desktop\\deluxeparfum\\deluxeparfum\\presentation\\deluxeparfum.webapi\\controllers\\ordercontriller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35611C46-D010-4C4F-A549-B6EC2F6F6BEA}|presentation\\DeluxeParfum.WebApi\\DeluxeParfum.WebApi.csproj|solutionrelative:presentation\\deluxeparfum.webapi\\controllers\\ordercontriller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35611C46-D010-4C4F-A549-B6EC2F6F6BEA}|presentation\\DeluxeParfum.WebApi\\DeluxeParfum.WebApi.csproj|c:\\users\\lenova\\onedrive\\desktop\\deluxeparfum\\deluxeparfum\\presentation\\deluxeparfum.webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35611C46-D010-4C4F-A549-B6EC2F6F6BEA}|presentation\\DeluxeParfum.WebApi\\DeluxeParfum.WebApi.csproj|solutionrelative:presentation\\deluxeparfum.webapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35611C46-D010-4C4F-A549-B6EC2F6F6BEA}|presentation\\DeluxeParfum.WebApi\\DeluxeParfum.WebApi.csproj|c:\\users\\lenova\\onedrive\\desktop\\deluxeparfum\\deluxeparfum\\presentation\\deluxeparfum.webapi\\controllers\\addresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35611C46-D010-4C4F-A549-B6EC2F6F6BEA}|presentation\\DeluxeParfum.WebApi\\DeluxeParfum.WebApi.csproj|solutionrelative:presentation\\deluxeparfum.webapi\\controllers\\addresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35611C46-D010-4C4F-A549-B6EC2F6F6BEA}|presentation\\DeluxeParfum.WebApi\\DeluxeParfum.WebApi.csproj|C:\\Users\\lenova\\OneDrive\\Desktop\\DeluxeParfum\\DeluxeParfum\\presentation\\deluxeparfum.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35611C46-D010-4C4F-A549-B6EC2F6F6BEA}|presentation\\DeluxeParfum.WebApi\\DeluxeParfum.WebApi.csproj|solutionrelative:presentation\\deluxeparfum.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0018DD-443C-42B1-BAD2-FA91BCF77FBD}|core\\DeluxeParfum.Application\\DeluxeParfum.Application.csproj|C:\\Users\\lenova\\OneDrive\\Desktop\\DeluxeParfum\\DeluxeParfum\\core\\deluxeparfum.application\\mappers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B0018DD-443C-42B1-BAD2-FA91BCF77FBD}|core\\DeluxeParfum.Application\\DeluxeParfum.Application.csproj|solutionrelative:core\\deluxeparfum.application\\mappers\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35611C46-D010-4C4F-A549-B6EC2F6F6BEA}|presentation\\DeluxeParfum.WebApi\\DeluxeParfum.WebApi.csproj|C:\\Users\\lenova\\OneDrive\\Desktop\\DeluxeParfum\\DeluxeParfum\\presentation\\deluxeparfum.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35611C46-D010-4C4F-A549-B6EC2F6F6BEA}|presentation\\DeluxeParfum.WebApi\\DeluxeParfum.WebApi.csproj|solutionrelative:presentation\\deluxeparfum.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2B0018DD-443C-42B1-BAD2-FA91BCF77FBD}|core\\DeluxeParfum.Application\\DeluxeParfum.Application.csproj|C:\\Users\\lenova\\OneDrive\\Desktop\\DeluxeParfum\\DeluxeParfum\\core\\deluxeparfum.application\\mappers\\mapperconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2B0018DD-443C-42B1-BAD2-FA91BCF77FBD}|core\\DeluxeParfum.Application\\DeluxeParfum.Application.csproj|C:\\Users\\lenova\\OneDrive\\Desktop\\DeluxeParfum\\DeluxeParfum\\core\\deluxeparfum.application\\features\\commands\\products\\add\\addaddresscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B0018DD-443C-42B1-BAD2-FA91BCF77FBD}|core\\DeluxeParfum.Application\\DeluxeParfum.Application.csproj|solutionrelative:core\\deluxeparfum.application\\features\\commands\\products\\add\\addaddresscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35611C46-D010-4C4F-A549-B6EC2F6F6BEA}|presentation\\DeluxeParfum.WebApi\\DeluxeParfum.WebApi.csproj|C:\\Users\\lenova\\OneDrive\\Desktop\\DeluxeParfum\\DeluxeParfum\\presentation\\deluxeparfum.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35611C46-D010-4C4F-A549-B6EC2F6F6BEA}|presentation\\DeluxeParfum.WebApi\\DeluxeParfum.WebApi.csproj|solutionrelative:presentation\\deluxeparfum.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{35611C46-D010-4C4F-A549-B6EC2F6F6BEA}|presentation\\DeluxeParfum.WebApi\\DeluxeParfum.WebApi.csproj|C:\\Users\\lenova\\OneDrive\\Desktop\\DeluxeParfum\\DeluxeParfum\\presentation\\deluxeparfum.webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,19 +71,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "OrderContriller.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\DeluxeParfum\\DeluxeParfum\\presentation\\DeluxeParfum.WebApi\\Controllers\\OrderContriller.cs",
+              "RelativeDocumentMoniker": "presentation\\DeluxeParfum.WebApi\\Controllers\\OrderContriller.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\DeluxeParfum\\DeluxeParfum\\presentation\\DeluxeParfum.WebApi\\Controllers\\OrderContriller.cs",
+              "RelativeToolTip": "presentation\\DeluxeParfum.WebApi\\Controllers\\OrderContriller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T11:41:24.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\DeluxeParfum\\DeluxeParfum\\core\\DeluxeParfum.Application\\Mappers\\MappingProfile.cs",
               "RelativeDocumentMoniker": "core\\DeluxeParfum.Application\\Mappers\\MappingProfile.cs",
               "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\DeluxeParfum\\DeluxeParfum\\core\\DeluxeParfum.Application\\Mappers\\MappingProfile.cs",
               "RelativeToolTip": "core\\DeluxeParfum.Application\\Mappers\\MappingProfile.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAuwDQAAAABAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwDQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T14:38:44.62Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-13T14:38:44.62Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "MapperConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\DeluxeParfum\\DeluxeParfum\\core\\DeluxeParfum.Application\\Mappers\\MapperConfiguration.cs",
               "RelativeDocumentMoniker": "core\\DeluxeParfum.Application\\Mappers\\MapperConfiguration.cs",
@@ -79,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "MapModel.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\DeluxeParfum\\DeluxeParfum\\core\\DeluxeParfum.Application\\Mappers\\MapModel.cs",
               "RelativeDocumentMoniker": "core\\DeluxeParfum.Application\\Mappers\\MapModel.cs",
@@ -91,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "AddCustomerCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\DeluxeParfum\\DeluxeParfum\\core\\DeluxeParfum.Application\\Features\\Commands\\Products\\Add\\AddCustomerCommandHandler.cs",
               "RelativeDocumentMoniker": "core\\DeluxeParfum.Application\\Features\\Commands\\Products\\Add\\AddCustomerCommandHandler.cs",
@@ -103,7 +131,58 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\DeluxeParfum\\DeluxeParfum\\presentation\\DeluxeParfum.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "presentation\\DeluxeParfum.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\DeluxeParfum\\DeluxeParfum\\presentation\\DeluxeParfum.WebApi\\Program.cs",
+              "RelativeToolTip": "presentation\\DeluxeParfum.WebApi\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAIwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T14:09:42.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\DeluxeParfum\\DeluxeParfum\\presentation\\DeluxeParfum.WebApi\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "presentation\\DeluxeParfum.WebApi\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\DeluxeParfum\\DeluxeParfum\\presentation\\DeluxeParfum.WebApi\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "presentation\\DeluxeParfum.WebApi\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T11:35:20.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\DeluxeParfum\\DeluxeParfum\\presentation\\DeluxeParfum.WebApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "presentation\\DeluxeParfum.WebApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\DeluxeParfum\\DeluxeParfum\\presentation\\DeluxeParfum.WebApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "presentation\\DeluxeParfum.WebApi\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T11:31:36.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddressController.cs",
+              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\DeluxeParfum\\DeluxeParfum\\presentation\\DeluxeParfum.WebApi\\Controllers\\AddressController.cs",
+              "RelativeDocumentMoniker": "presentation\\DeluxeParfum.WebApi\\Controllers\\AddressController.cs",
+              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\DeluxeParfum\\DeluxeParfum\\presentation\\DeluxeParfum.WebApi\\Controllers\\AddressController.cs",
+              "RelativeToolTip": "presentation\\DeluxeParfum.WebApi\\Controllers\\AddressController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T11:40:10.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "AddCategoryCommandHandler.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\DeluxeParfum\\DeluxeParfum\\core\\DeluxeParfum.Application\\Features\\Commands\\Products\\Add\\AddCategoryCommandHandler.cs",
               "RelativeDocumentMoniker": "core\\DeluxeParfum.Application\\Features\\Commands\\Products\\Add\\AddCategoryCommandHandler.cs",
@@ -115,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "AddAddressCommand.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\DeluxeParfum\\DeluxeParfum\\core\\DeluxeParfum.Application\\Features\\Commands\\Products\\Add\\AddAddressCommand.cs",
               "RelativeDocumentMoniker": "core\\DeluxeParfum.Application\\Features\\Commands\\Products\\Add\\AddAddressCommand.cs",
@@ -127,19 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\DeluxeParfum\\DeluxeParfum\\presentation\\DeluxeParfum.WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "presentation\\DeluxeParfum.WebApi\\Program.cs",
-              "ToolTip": "C:\\Users\\lenova\\OneDrive\\Desktop\\DeluxeParfum\\DeluxeParfum\\presentation\\DeluxeParfum.WebApi\\Program.cs",
-              "RelativeToolTip": "presentation\\DeluxeParfum.WebApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T14:09:42.355Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\DeluxeParfum\\DeluxeParfum\\presentation\\DeluxeParfum.WebApi\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "presentation\\DeluxeParfum.WebApi\\WeatherForecast.cs",
@@ -151,7 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "AddressViewDto.cs",
               "DocumentMoniker": "C:\\Users\\lenova\\OneDrive\\Desktop\\DeluxeParfum\\DeluxeParfum\\core\\DeluxeParfum.Application\\Dtos\\AddressViewDto.cs",
               "RelativeDocumentMoniker": "core\\DeluxeParfum.Application\\Dtos\\AddressViewDto.cs",
